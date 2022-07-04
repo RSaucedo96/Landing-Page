@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    flex-direction:column;
+}
+
+.header {
+    background-color: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo {
+    
+}
+
+.top-right-links {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    font-family: 'Roboto';
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
